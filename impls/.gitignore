@@ -60,7 +60,6 @@ forth/mal.fs
 fsharp/*.exe
 fsharp/*.dll
 fsharp/*.mdb
-go/step*
 groovy/*.class
 groovy/mal.jar
 haskell/*.hi
